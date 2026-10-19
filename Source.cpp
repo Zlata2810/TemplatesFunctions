@@ -56,6 +56,7 @@ void PositivElements(T mas[], int size) {
 
 int main() {
 	int arr[5]{ 1,5,8,-9,10 };
+
 	MinElement(arr, 5);
 	MinElementIndex(arr, 5);
 	Sum(arr, 5);
